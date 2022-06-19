@@ -1,0 +1,10 @@
+[
+  {
+    "package": "BootstrapQTL",
+    "oncran": true
+  },
+  {
+    "package": "NetRep",
+    "oncran": true
+  }
+]

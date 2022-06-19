@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BootstrapQTL"]
+	path = BootstrapQTL
+	url = https://github.com/sritchie73/bootstrapqtl
+	shallow = true
+	registered = true
+[submodule "NetRep"]
+	path = NetRep
+	url = https://github.com/sritchie73/netrep
+	shallow = true
+	registered = true
