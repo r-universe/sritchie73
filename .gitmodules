@@ -13,3 +13,8 @@
 	url = https://github.com/sritchie73/netrep
 	shallow = true
 	registered = true
+[submodule "ukbnmr"]
+	path = ukbnmr
+	url = https://github.com/sritchie73/ukbnmr
+	shallow = true
+	registered = true

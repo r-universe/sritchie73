@@ -6,5 +6,9 @@
   {
     "package": "NetRep",
     "oncran": true
+  },
+  {
+    "package": "ukbnmr",
+    "oncran": true
   }
 ]
