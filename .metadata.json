@@ -1,14 +1,14 @@
 [
   {
+    "package": "ukbnmr",
+    "oncran": true
+  },
+  {
     "package": "BootstrapQTL",
     "oncran": true
   },
   {
     "package": "NetRep",
-    "oncran": true
-  },
-  {
-    "package": "ukbnmr",
     "oncran": true
   }
 ]
